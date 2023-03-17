@@ -61,7 +61,7 @@ struct AppabeticalApp: App {
         }
         
         if !supported {
-            UIApplication.shared.alert(title: "Not Supported", body: "This version of iOS is not supported. Please close the app.")
+            UIApplication.shared.alert(title: "Warning", body: "This version of iOS may not be supported.")
             return
         }
             
