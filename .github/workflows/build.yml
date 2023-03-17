@@ -1,0 +1,25 @@
+name: Build TrollTools16
+
+on:
+  push:
+    branches: 
+      - '**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build TrollTools16
+    runs-on: macos-12
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install Theos
+        uses: Randomblock1/theos-action@v1.1
+      - name: build
+        run:  ./ipabuild.sh
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: TrollTools.ipa
+          path: build/TrollTools.ipa
