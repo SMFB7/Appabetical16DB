@@ -15,8 +15,8 @@
 
 ## Installation
 - iOS 14.*: Install the app with [TrollStore](https://github.com/opa334/TrollStore)
-- iOS 15.0 - 15.4.1: Install the app with [TrollStore](https://github.com/opa334/TrollStore) (recommended), [AltStore](https://altstore.io/), or [Sideloadly](https://sideloadly.io/)
-- iOS 15.5 - 16.2 DB 1: Install the app with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or [Scarlet](https://usescarlet.com/). (excludes iOS 15.7.2 & 15.7.3)
+- iOS 15.0 - 15.4.1: Install the app with [TrollStore](https://github.com/opa334/TrollStore) (recommended), [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or [Scarlet](https://usescarlet.com/)
+- iOS 15.5 - 16.2 DB 1: Install the app with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or [Scarlet](https://usescarlet.com/) (excludes iOS 15.7.2 & 15.7.3)
 - iOS 16.2+: Not supported, and never will be
 
 ## About
