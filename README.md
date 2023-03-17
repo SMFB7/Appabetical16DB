@@ -1,11 +1,11 @@
 <h1 align="center"> Appabetical </h1>
-<p align="center">Sort your apps A-Z or by color on iOS 14.0 - 16.1.2!</p>
+<p align="center">Sort your apps A-Z or by color on iOS 14.0 - 16.2 DB 1!</p>
 
 ![Image](https://user-images.githubusercontent.com/52459150/209237876-c684dbb8-50f1-4af3-94d7-68e0affb5364.png)
 
 
 ## Features
-- Works on any iPhone running iOS 14.0 - 16.1.2
+- Works on any iPhone running iOS 14.0 - 16.2 developer beta 1
 - Sort apps A-Z, Z-A, or by color
 - Supports sorting for all types of icons, even ones themed with TrollTools
 - Choose only the pages you want to sort
@@ -16,7 +16,7 @@
 ## Installation
 - iOS 14.*: Install the app with [TrollStore](https://github.com/opa334/TrollStore)
 - iOS 15.0 - 15.4.1: Install the app with [TrollStore](https://github.com/opa334/TrollStore) (recommended), [AltStore](https://altstore.io/), or [Sideloadly](https://sideloadly.io/)
-- iOS 15.5 - 16.1.2: Install the app with [AltStore](https://altstore.io/) or [Sideloadly](https://sideloadly.io/) (excludes iOS 15.7.2 & 15.7.3)
+- iOS 15.5 - 16.2 DB 1: Install the app with [AltStore](https://altstore.io/), [Sideloadly](https://sideloadly.io/) or [Scarlet](https://usescarlet.com/. (excludes iOS 15.7.2 & 15.7.3)
 - iOS 16.2+: Not supported, and never will be
 
 ## About
